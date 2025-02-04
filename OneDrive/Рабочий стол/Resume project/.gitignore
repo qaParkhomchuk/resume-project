@@ -1,0 +1,34 @@
+# Ігнорувати системні файли Windows
+Thumbs.db
+desktop.ini
+
+# Ігнорувати кеш та тимчасові файли
+*.log
+*.tmp
+
+# Ігнорувати специфічні каталоги та файли, які не потрібні в репозиторії
+# (цей список можна доповнювати або змінювати під твій випадок)
+
+# Ігнорувати загальні системні каталоги (якщо вони з'являються)
+Cookies/
+Dane aplikacji/
+Documents/Moja muzyka/
+Documents/Moje obrazy/
+Documents/Moje wideo/
+Menu Start/
+Moje dokumenty/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Szablony/
+Ustawienia lokalne/
+
+# Ігнорувати налаштування Git для користувача (якщо вони випадково попали)
+.bash_history
+.gitconfig
+.node_repl_history
+
+# Ігнорувати налаштування редакторів/IDE
+.vscode/
+.ssh/
