@@ -32,3 +32,7 @@ Ustawienia lokalne/
 # Ігнорувати налаштування редакторів/IDE
 .vscode/
 .ssh/
+node_modules/
+*.log
+*.bak
+.DS_Store
