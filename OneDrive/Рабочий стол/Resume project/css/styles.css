@@ -80,6 +80,14 @@ body {
   text-decoration: underline;
 }
 
+.contacts-location {
+  color: #a5684c;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+
 .contacts-item {
   margin-top: 0;
   margin-bottom: 4px;
@@ -119,7 +127,7 @@ ul li a {
 
 .my-profession {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 24px;
   line-height: 17px;
   color: #000;
   margin-top: 0;
@@ -194,8 +202,8 @@ ul li a {
   font-size: 22px;
   line-height: 27px;
   color: #000;
-  margin-top: 0;
-  margin-bottom: 8px;
+  margin-top: 12;
+  margin-bottom: 12px;
 }
 
 .work-experiens-company {
@@ -221,6 +229,13 @@ ul li a {
 
 .separator {
   color: #000;
+}
+
+.technologies {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
 }
 
 .duties-list {
